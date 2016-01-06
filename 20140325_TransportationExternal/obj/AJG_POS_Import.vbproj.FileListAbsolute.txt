@@ -1,0 +1,12 @@
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\bin\AJG_POS_Import.exe
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\bin\AJG_POS_Import.xml
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\bin\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\bin\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\AJG_POS_Import.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\AJG_POS_Import.frmLoginScreen.resources
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\AJG_POS_Import.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\AJG_POS_Import.exe
+D:\Dharmaraj\2014\AddonSDK\ALJ POS Integration\SourceCode\AJG POS Integration_External\AJG POS Integration_External\obj\Release\AJG_POS_Import.xml
